@@ -11,7 +11,7 @@
       [:body
         [:h1 "Moon Dweller."]
         [:div {:id "title"}
-          [:img {:class "desktop" :src "/images/heading.png" :alt "Moon Dweller"}]]
+          [:img {:class "desktop" :src "/images/heading.png" :alt "Moon Dweller."}]]
         [:ul {:id "history"}]
         [:div {:id "block"}]
         [:form {:id "commands"}
