@@ -4,12 +4,12 @@
 (defn core []
   (html5 {:lang "en"}
       [:head 
-        [:title "Moon Dweller"]
+        [:title "Moon Dweller."]
         [:meta {:name "viewport" :content "width=device-width, initial-scale=1, maximum-scale=1"}]
         [:meta {:name "author" :content "Andrew Buntine"}]
         [:meta {:name "description" :content "A text-based adventure. You've woken abruptly in a small, silver-walled room with no windows. There is a door to the east. What will you do?"}]]
       [:body
-        [:h1 "Moon Dweller"]
+        [:h1 "Moon Dweller."]
         [:div {:id "title"}
           [:img {:class "desktop" :src "/images/heading.png" :alt "Moon Dweller"}]]
         [:ul {:id "history"}]

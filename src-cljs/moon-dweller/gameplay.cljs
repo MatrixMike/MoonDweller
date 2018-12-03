@@ -690,7 +690,7 @@
   "Prints a line-delimited list of the commands the system understands."
   (let [commands (sort (map str (keys cmd-verbs)))]
     (doseq [c commands]
-      (s/md-pr c 5))))
+      (s/md-pr c 5))))  ;;
 
 (letfn
   [(set-on-off! [option state]

@@ -19,20 +19,20 @@
        "Repairs deck, center. Passage leads west/east.")
       ("You are at the end of the hallway. There is a large, sliding door in front of you."
        "End of hallway. Large door here.")
-      ("There are a bunch of broken machines lying around on the repairs deck. There is a door to the east or a passage west."
+      ("There is a bunch of broken machines lying around on the repairs deck. There is a door to the east or a passage west."
        "Repairs deck. Door to the east and passage south.")
       ("You are in a large room with space age decor. It seems to be the central living quarters. The walls are lined with pictures of the late comedian, Bill Hicks. There are walkways to the west and northwest and a door to the south."
        "Central living quarters, walkways to west and northwest, door to south.")
-      ("You can see some more framed pictures of Bill Hicks here. As you walk past them, Bills eyes seem to follow you. The passage goes west or east."
+      ("You can see some more framed pictures of Bill Hicks here. As you walk past them, Bills eyes seem to follow you. The passage goes west and east."
        "Passage with more creepy Bill Hicks pictures. Passage leads east/west.")
-      ("You are at the west-end of the room. Here you can see sealed entrance and a sign saying 'Exit pod'. Passage goes north-east or east."
+      ("You are at the west-end of the room. Here you can see a sealed entrance and a sign saying 'Exit pod'. Passage goes north-east or east."
        "West-end of large room with exit pod. Passages north-east and east.")
       ("You are at the front of the large room. There is a huge glass-like window here and you can see now that you are, infact, travelling through space! There are passages going back southeast and southwest."
        "Front of large room with huge glass-like window. Passages southeast/southwest.")
       ("You are in a dark alley and there is rubbish lying around everywhere. There are solid walls behind you and to either side. The alley leads south."
        "Dead-end of alley. Passage leads south.")
       ("You are standing at the entrance of an obscure-looking shop. There are cryptic characters on the sign. You can go in or head back to the west."
-       "Entrance to obscure shop. Dead-end.")
+       "Entrance to an obscure shop. Dead-end.")
       ("You are faced with two paths - one to the east and one going south. Both are slimy and wet."
        "Alley way. Paths to south/north and also to the east")
       ("The shop has no attendant. You can see a bunch of empty viles, odd trinkets and another Bill Hicks portrait."
@@ -61,7 +61,7 @@
        "Isle Zero-A: Web Development. Dead-end, but you can go east.")
       ("You have arrived at the back-end of the library. You cannot go any further in this direction."
        "Back of library. It's a dead-end.")
-      ("You are in Isle one-B, the functional programming section. There are ancient books lying around including gems like 'LISP in Small Peices', 'ML for the Working Programmer' and 'Revised^666 Report on the Algorithmic Language Scheme'."
+      ("You are in Isle one-B, the functional programming section. There are ancient books lying around including gems like 'LISP in Small Pieces', 'ML for the Working Programmer' and 'Revised^666 Report on the Algorithmic Language Scheme'."
        "Isle One-B: Functional programming. Dead-end.")
       ("You have arrived in Isle one-A, the logic/misc. programming section. There are some seriously odd books here including 'Forth for Jupiterians' and 'Prolog knows best'."
        "Isle one-A: Logic/Misc programming. Dead-end.")
