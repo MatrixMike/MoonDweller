@@ -7,7 +7,7 @@
         [:title "Moon Dweller."]
         [:meta {:name "viewport" :content "width=device-width, initial-scale=1, maximum-scale=1"}]
         [:meta {:name "author" :content "Andrew Buntine"}]
-        [:meta {:name "description" :content "A text-based adventure. You've woken abruptly in a small, silver-walled room with no windows. There is a door to the east. What will you do?"}]]
+        [:meta {:name "description" :content "A text-based adventure. You've woken abruptly in a small, silvery-walled room with no windows. There is a door to the east. What will you do?"}]]
       [:body
         [:h1 "Moon Dweller."]
         [:div {:id "title"}

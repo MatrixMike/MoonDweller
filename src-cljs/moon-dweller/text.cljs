@@ -5,7 +5,7 @@
 (def game-text
   '{rooms
     [
-      ("You are in a small, silver-walled room with no windows. There is a door to the north labelled 'Repairs deck' and another door to the east."
+      ("You are in a small, silvery-walled room with no windows. There is a door to the north labelled 'Repairs deck' and another door to the east."
        "Small, featureless room. Doors to north and east.")
       ("You are in another small, featureless room. There is nothing of interest here except doors to the north and west."
        "Small, featureless room. Doors to north and west.")

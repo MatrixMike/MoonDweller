@@ -2,7 +2,7 @@
 
 MOON DWELLER: A text-based adventure in your web browser.
 
-**You've woken abruptly in a small, silver-walled room with no windows. There is a door to the east. What will you do? The choice is yours...**
+**You've woken abruptly in a small, silvery-walled room with no windows. There is a door to the east. What will you do? The choice is yours...**
 
 [PLAY IT NOW AT moondweller.io](http://moondweller.io/).
 
