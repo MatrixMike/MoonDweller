@@ -4,3 +4,5 @@ src-cljs/moon-dweller/gameplay.cljs does ...   around line 689
 
 Note that there is mention of JSON here
 
+To start: in browser : http://localhost:3010/
+
